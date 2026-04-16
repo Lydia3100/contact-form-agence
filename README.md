@@ -1,28 +1,31 @@
 # Test technique – Formulaire de contact immobilier
 
-## Présentation
+## À propos de moi
 
-Bonjour,  
-Je m'appelle **Lydia Hallaf**.
+- **Nom / prénom :** Lydia Hallaf  
+- **Formation :** Master 1 MIAGE (Méthodes Informatiques Appliquées à la Gestion des Entreprises) à luniversité d'Aix-Marseille 
+- **Durée de stage souhaitée :** de 2 à 4 mois 
 
-Dans le cadre de ce test technique, j’ai développé un formulaire de contact immobilier à partir d’une maquette fournie.
+## 📸 Screenshots
 
-L’objectif était :
-- d’intégrer fidèlement l’interface
-- de la rendre responsive
-- de gérer les interactions utilisateur
-- d’enregistrer les données dans une base MySQL
+![Formulaire](./Screenshots/formulaire.png)
 
----
+## 🧰 Stack technique & choix
 
-## Stack technique
+- **Framework :** Next.js (React)
+  → Permet de gérer à la fois le front-end et une API backend dans le même projet.
 
-- Next.js
-- React
-- Tailwind CSS
-- MySQL
-- XAMPP (Apache + MySQL)
-- mysql2
+- **React**
+  → Gestion dynamique du formulaire avec `useState`.
+
+- **Tailwind CSS**
+  → Permet de créer rapidement une interface responsive avec des classes utilitaires.
+
+- **mysql2**
+  → Permet de connecter facilement l’application à une base de données MySQL.
+
+- **XAMPP (Apache + MySQL)**
+  → Utilisé pour exécuter la base de données en local.
 
 ---
 
@@ -151,11 +154,6 @@ http://localhost:3000
 4. Aller dans phpMyAdmin  
 5. Vérifier que les données sont bien enregistrées  
 
----
-
-## Screenshots
-
-![formulaire](./Screenshots/formulaire.png)
 
 ---
 

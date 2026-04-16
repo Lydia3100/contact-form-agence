@@ -191,8 +191,7 @@ Oui, j’ai utilisé un LLM (ChatGPT) comme support ponctuel.
 Il m’a aidée à :
 - débloquer certaines erreurs techniques
 - mieux comprendre le fonctionnement de Next.js
-
-cependant, j’ai veillé à bien comprendre les solutions proposées et à les adapter moi-même.  
+Cependant, j’ai veillé à bien comprendre les solutions proposées et à les adapter moi-même.  
 L’IA a été utilisée comme un outil d’accompagnement pour optimiser mon travail, et non comme un substitut au développement.
 ---
 

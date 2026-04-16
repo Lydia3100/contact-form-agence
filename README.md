@@ -10,7 +10,7 @@
 
 ![Formulaire](./Screenshots/formulaire.png)
 
-## 🧰 Stack technique & choix
+## Stack technique & choix
 
 - **Framework :** Next.js (React)
   → Permet de gérer à la fois le front-end et une API backend dans le même projet.

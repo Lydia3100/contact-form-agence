@@ -155,7 +155,7 @@ http://localhost:3000
 
 ## Screenshots
 
-![formulaire](./screenshots/formulaire.png)
+![formulaire](./Screenshots/formulaire.png)
 
 ---
 

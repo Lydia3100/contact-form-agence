@@ -154,7 +154,46 @@ http://localhost:3000
 4. Aller dans phpMyAdmin  
 5. Vérifier que les données sont bien enregistrées  
 
+## Questions
 
+### Avez-vous trouvé l’exercice facile ou difficile ?
+
+J’ai trouvé l’exercice globalement accessible, notamment la partie front-end que je maîtrisais déjà.  
+La principale difficulté a été la découverte de Next.js, en particulier la mise en place des API routes.
+
+---
+
+### Qu’est-ce qui vous a posé problème ?
+
+La principale difficulté a été la mise en place de l’API avec Next.js, que je n’avais jamais utilisé auparavant.  
+Comprendre la logique des routes côté serveur et l’organisation du projet a demandé un temps d’adaptation.
+
+---
+
+### Avez-vous appris de nouveaux outils ?
+
+Oui, cet exercice m’a permis de découvrir Next.js, notamment pour créer une API backend directement dans le projet.  
+J’ai également mieux compris comment structurer une application fullstack.
+
+---
+
+### Quelle est la place du développement web dans votre cursus de formation ?
+
+Le développement web fait partie de ma formation en MIAGE, principalement à travers des travaux pratiques.  
+Cela m’a permis d’acquérir des bases en front-end et de comprendre le fonctionnement global d’une application web.
+
+---
+
+### Avez-vous utilisé un LLM ?
+
+Oui, j’ai utilisé un LLM (ChatGPT) comme support ponctuel.
+
+Il m’a aidée à :
+- débloquer certaines erreurs techniques
+- mieux comprendre le fonctionnement de Next.js
+
+Cependant, j’ai veillé à bien comprendre les solutions proposées et à les adapter moi-même.  
+L’IA a été utilisée comme un outil d’accompagnement pour optimiser mon travail, et non comme un substitut au développement.
 ---
 
 ## Auteur

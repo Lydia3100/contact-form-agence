@@ -6,7 +6,7 @@
 - **Formation :** Master 1 MIAGE (Méthodes Informatiques Appliquées à la Gestion des Entreprises) à luniversité d'Aix-Marseille 
 - **Durée de stage souhaitée :** de 2 à 4 mois 
 
-## 📸 Screenshots
+## Screenshot
 
 ![Formulaire](./Screenshots/formulaire.png)
 
